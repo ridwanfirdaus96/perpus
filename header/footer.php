@@ -1,0 +1,1 @@
+<div class="footer">jika merasa kesulitan hubungi<strong> va.rhenka@gmail.com</strong>.</div>
