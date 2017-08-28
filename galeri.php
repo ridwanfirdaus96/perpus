@@ -42,6 +42,78 @@
   </a>
   <div class="desc">Lihat Selengkapnya</div>
 </div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+<p> </p>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="custom/image/unpad.png">
+    <img src="custom/image/unpad.png" alt="unpad">
+  </a>
+  <div class="desc">Lihat Selengkapya</div>
+</div>
+
 </div>
 
 <ul class="pagination">
