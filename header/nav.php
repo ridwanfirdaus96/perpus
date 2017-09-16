@@ -10,27 +10,27 @@
               <img src="custom/image/unpad.png" alt="HTML5 Icon" style="width:128px;height:128px;">
             </div>
             <div class="col s6">
-              <img src="custom/image/perpus.jpg" alt="HTML5 Icon" style="width:180px;height:150px;">
+              <nav>
+                  <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><div class="dropdown">
+                <button class="dropbtn">Profil</button>
+                <div class="dropdown-content">
+                     <a href="../perpus/sejarah.php">Sejarah</a>
+                     <a href="../perpus/visimisi.php">Visi & Misi</a>
+                 </div>
+                </div>
+            </li>
+            <li><div class="dropdown">
+                <button class="dropbtn">Informasi</button>
+                 <div class="dropdown-content">
+                     <a href="../perpus/berita.php">Berita</a>
+                     <a href="../perpus/artikel.php">Artikel</a>
+                     <a href="../perpus/galeri.php">Galeri</a>
+                 </div>
+                </div>
+            </li>
+                 </ul>
+              </nav>
+            </div>
         </header>
-    <nav>
-        <ul>
-  <li><a href="index.php">Home</a></li>
-  <li><div class="dropdown">
-      <button class="dropbtn">Profil</button>
-      <div class="dropdown-content">
-           <a href="../perpus/sejarah.php">Sejarah</a>
-           <a href="../perpus/visimisi.php">Visi & Misi</a>
-       </div>
-      </div>
-  </li>
-  <li><div class="dropdown">
-      <button class="dropbtn">Informasi</button>
-       <div class="dropdown-content">
-           <a href="../perpus/berita.php">Berita</a>
-           <a href="../perpus/artikel.php">Artikel</a>
-           <a href="../perpus/galeri.php">Galeri</a>
-       </div>
-      </div>
-  </li>
-       </ul>
-    </nav>
