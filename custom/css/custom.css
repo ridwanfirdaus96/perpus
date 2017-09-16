@@ -121,6 +121,8 @@ li a:hover {
 
 header {
      width:100%;
+     background: url('http://www.rumahcitra.com/photos/1425-1.JPG');
+     margin-bottom: 30px;
 }
 
 
@@ -130,7 +132,7 @@ header {
 }
 
 .dropdown .dropbtn {
-    font-size: 16px;    
+    font-size: 16px;
     border: none;
     outline: none;
     color: white;
@@ -187,7 +189,7 @@ header {
   height : 200px;
   position: relative;
   margin: auto;
-    
+
 }
 
 .center {
@@ -205,7 +207,7 @@ header {
     -webkit-text-size-adjust: 100%;
     /* 2 */
   }
-  
+
   /**
    * Remove default margin.
    */
@@ -233,140 +235,140 @@ header {
     max-width: 640px;
     width: 94%;
   }
-  
+
 .title h1 {
     margin-top: 0;
   }
   .flow-text {
     font-weight: 300;
   }
-  
+
   @media only screen and (min-width: 360px) {
     .flow-text {
       font-size: 1.2rem;
     }
   }
-  
+
   @media only screen and (min-width: 390px) {
     .flow-text {
       font-size: 1.224rem;
     }
   }
-  
+
   @media only screen and (min-width: 420px) {
     .flow-text {
       font-size: 1.248rem;
     }
   }
-  
+
   @media only screen and (min-width: 450px) {
     .flow-text {
       font-size: 1.272rem;
     }
   }
-  
+
   @media only screen and (min-width: 480px) {
     .flow-text {
       font-size: 1.296rem;
     }
   }
-  
+
   @media only screen and (min-width: 510px) {
     .flow-text {
       font-size: 1.32rem;
     }
   }
-  
+
   @media only screen and (min-width: 540px) {
     .flow-text {
       font-size: 1.344rem;
     }
   }
-  
+
   @media only screen and (min-width: 570px) {
     .flow-text {
       font-size: 1.368rem;
     }
   }
-  
+
   @media only screen and (min-width: 600px) {
     .flow-text {
       font-size: 1.392rem;
     }
   }
-  
+
   @media only screen and (min-width: 630px) {
     .flow-text {
       font-size: 1.416rem;
     }
   }
-  
+
   @media only screen and (min-width: 660px) {
     .flow-text {
       font-size: 1.44rem;
     }
   }
-  
+
   @media only screen and (min-width: 690px) {
     .flow-text {
       font-size: 1.464rem;
     }
   }
-  
+
   @media only screen and (min-width: 720px) {
     .flow-text {
       font-size: 1.488rem;
     }
   }
-  
+
   @media only screen and (min-width: 750px) {
     .flow-text {
       font-size: 1.512rem;
     }
   }
-  
+
   @media only screen and (min-width: 780px) {
     .flow-text {
       font-size: 1.536rem;
     }
   }
-  
+
   @media only screen and (min-width: 810px) {
     .flow-text {
       font-size: 1.56rem;
     }
   }
-  
+
   @media only screen and (min-width: 840px) {
     .flow-text {
       font-size: 1.584rem;
     }
   }
-  
+
   @media only screen and (min-width: 870px) {
     .flow-text {
       font-size: 1.608rem;
     }
   }
-  
+
   @media only screen and (min-width: 900px) {
     .flow-text {
       font-size: 1.632rem;
     }
   }
-  
+
   @media only screen and (min-width: 930px) {
     .flow-text {
       font-size: 1.656rem;
     }
   }
-  
+
   @media only screen and (min-width: 960px) {
     .flow-text {
       font-size: 1.68rem;
     }
   }
-  
+
   @media only screen and (max-width: 360px) {
     .flow-text {
       font-size: 1.2rem;
@@ -1222,7 +1224,7 @@ header {
     width: 85%;
   }
 }
-      
+
 /*galeri */
 
 div.gallery {
@@ -1332,7 +1334,7 @@ div.desc {
  html input[disabled] {
    cursor: default;
  }
- 
+
  ul:not(.browser-default) {
   padding-left: 0;
   list-style-type: none;
@@ -1482,6 +1484,8 @@ a {
   background-color: white;
 }
 .solid4 {
+  position: absolute;
+  bottom: 380px;
   border-style: solid;
   width: 980px;
   height: 700px;
