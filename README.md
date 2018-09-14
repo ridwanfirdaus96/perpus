@@ -1,2 +1,4 @@
 # perpus
-perpustakaan majalengka
+Aplikasi Web perpustakaan majalengka
+
+Stil Maintance / Development
